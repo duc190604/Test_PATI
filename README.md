@@ -6,6 +6,10 @@ A pixel-perfect clone of the Sculptique product landing page, created as part of
 
 This project is a front-end recreation of the [Sculptique Lymph CC Select product page](https://trysculptique.com/products/lymph-cc-select), demonstrating pixel-accurate UI implementation, responsive design, and clean code structure.
 
+## 🌐 Live Demo
+
+**[View Live Demo →](https://test-pati.vercel.app/)**
+
 ## 🛠️ Tech Stack
 
 - **Framework:** Next.js 15 (App Router)
